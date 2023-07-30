@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-This is [Seid Muhie Yimam](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/seid-muhie-yimam.html)'s (ሰይድ <a onclick="play1()" class="button"><audio id="audio1" src="files/seid.m4a"></audio><span class="glyphicon glyphicon-volume-up"></span></a> ሙሄ <a onclick="play2()" class="button"><audio id="audio2" src="files/muhie.m4a"></audio><span class="glyphicon glyphicon-volume-up"></span></a> ይማም <a onclick="play3()" class="button"><audio id="audio3" src="files/yimam.m4a"></audio><span class="glyphicon glyphicon-volume-up"></span></a>) academic web page.
+This is [Abinew Ali Ayele](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/abinew-ali.html)'s academic web page.
 
 Short intro:
 =====
 
-I am Seid, currently a **Technical Lead** at [HCDS](https://www.hcds.uni-hamburg.de/en/hcds.html) and **Research Associate** at [Language Technology Group](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html), under the supervision of [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
+I am Abinew, currently a Ph.D. student under the supervision of [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
 
 At HCDS, I will mostly work on leading and consulting research on digital humanities that involve big data processing of textual content. I will continue teaching NLP and Data science courses in the house while supervising students on interdisciplinary AI and data science research topics. I am currently participating in the development of a research data and knowledge management project, an intersectional project with knowledge management, AI, and library science. The project is envisioned to ingest metadata from research reports and projects automatically from diverse sources to present the outcomes using appealing visualization components.
 
