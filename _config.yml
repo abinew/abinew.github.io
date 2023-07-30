@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seid Muhie Yimam - ሰይድ ሙሄ ይማም"
+title                    : "Abinew Ali Ayele"
 title_separator          : "-"
-name                     : &name "Seid Muhie Yimam"
+name                     : &name "Abinew Ali Ayele"
 description              : &description " Teachnical Lead at the House of Computing and Data Science (HCDS) and Research Associate at Language Technology Research Group, Universität Hamburg"
-url                      : https://seyyaw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abinew.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "seyyaw.github.io"
+repository               : "abinew.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seid Muhie Yimam"
+  name             : "Abinew Ali Ayele"
   avatar           : "profile.jpeg"
-  bio              : "Teachnical Lead at the House of Computing and Data Science (HCDS) and Research Associate at Language Technology Research Group, Universität Hamburg"
+  bio              : "Doctoral student, Department of Informatics, Universität Hamburg"
   location         : "Vogt-Kölln-Straße 30 <br> 22527 Hamburg"
   employer         :
-  googlescholar    : "https://scholar.google.de/citations?user=rDKEGNgAAAAJ&hl=en"
-  email            : "seid.muhie.yimam@uni-hamburg.de"
+  googlescholar    : "https://scholar.google.de/citations?user=g2m1wH4AAAAJ"
+  email            : "abinew.ali.ayele@uni-hamburg.de"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Seyaw"
+  facebook         : "XXX"
   foursquare       :
-  github           : "seyyaw"
+  github           : "abinew"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "seyaw"
-  orcid            : "https://orcid.org/0000-0002-8289-388X"
+  linkedin         : "abinewaliayele"
+  orcid            : "https://orcid.org/0000-0003-4686-5053"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "seyyaw"
+  twitter          : "abinewaliayele"
   vine             :
   weibo            :
   xing             :
